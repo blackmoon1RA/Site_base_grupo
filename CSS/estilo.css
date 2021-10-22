@@ -1,5 +1,7 @@
+   
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 body{
-    background-color: lightskyblue;
+    background-color: #ADC178;;
 }
 .row{
     margin-bottom: 20px;
@@ -19,4 +21,10 @@ body{
     margin-top:20px;
     border-radius: 15px;
     margin-bottom:20px;
+}
+.btn-primary{
+ color: white;
+ background-color: #48552B;
+ border-color:#48552B;
+ font-family: 'Josefin Sans', sans-serif;
 }
