@@ -3,7 +3,7 @@ body{
     background-color: #ADC178;
 }
 .col{
-    background-color: black;
+    background-color: white;
 }
 .container{
     margin-top:20px;
@@ -11,4 +11,7 @@ body{
 }
 h4 {
  font-family: 'Josefin Sans', sans-serif;
+}
+#logo{
+    background-color: black;
 }

@@ -3,9 +3,12 @@ body{
     background-color: #ADC178;
 }
 .col{
-    background-color:black;
+    background-color:white;
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+#logo{
+    background-color: black;
 }
